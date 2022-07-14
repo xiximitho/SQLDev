@@ -1,4 +1,7 @@
+set(CMAKE_AUTORCC ON)
+
 set (SOURCE_FILES
+    application.qrc
     window/mainwindow.h
     window/mainwindow.cpp
     main.cpp
